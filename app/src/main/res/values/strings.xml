@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StopwatchApp</string>
+    <string name="st">Start</string>
+    <string name="p">Pause</string>
+    <string name="re">Reset</string>
+    <string name="sl">Save Lap</string>
+    <string name="timer">00:00:00</string>
+
 </resources>
